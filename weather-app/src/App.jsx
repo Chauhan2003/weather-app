@@ -1,11 +1,12 @@
 import React from 'react'
 import './App.css'
+import Template from './components/Template'
 
 function App() {
   return (
-    <div>
-      Hello Welcome to my github
-    </div>
+    <>
+      <Template />
+    </>
   )
 }
 
