@@ -1,6 +1,8 @@
-# weather-app
+# Weather App
 
-I have created this weather app, which fetch data from weather API and show us in browser.
-technology used: React, Tailwind, API
+This is a Weather App that fetches data from a weather API and displays it in the browser.
 
-Website: https://letsearchweather.netlify.app/
+**Technology Used:** React, Tailwind CSS
+
+**Live Website:** [Weather App on Netlify](https://letsearchweather.netlify.app/)
+
