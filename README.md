@@ -4,5 +4,5 @@ This is a Weather App that fetches data from a weather API and displays it in th
 
 **Technology Used:** React, Tailwind CSS, API
 
-**Live Website:** [Weather App on Netlify](https://letsearchweather.netlify.app/)
+**Live Website:** [Weather App](https://letsearchweather.netlify.app/)
 
